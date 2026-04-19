@@ -14,6 +14,7 @@ This project performs comprehensive analysis on customer churn data from a telec
 ## Project Structure
 
 ```
+Customer_Churn_Analysis-Retention_Strategy
 ├── .gitignore               # Git ignore rules
 ├── README.md               # This file
 ├── requirements.txt         # Python dependencies
@@ -34,7 +35,7 @@ This project performs comprehensive analysis on customer churn data from a telec
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone  https://github.com/MM-Robin/Customer_Churn_Analysis-Retention_Strategy
    cd Customer_Churn_Analysis&Retention_Strategy
    ```
 
