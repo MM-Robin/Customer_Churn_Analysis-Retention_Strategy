@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Project specific
+report.py
+output/
+
+# Jupyter
+.ipynb_checkpoints
